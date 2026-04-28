@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class main {
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         int num1,num2,resultado;
 
