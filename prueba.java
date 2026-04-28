@@ -1,9 +1,8 @@
-public class prueba {
+class prueba {
 
-    public static void main(String[] args) {
-        int causa = 10;
-        int pepito = causa + 5;
-
-        System.out.println(pepito);
+    public int sumar(int num1, int num2) {
+    int pepito = num1 + num2;
+    return pepito;
     }
+    
 }
